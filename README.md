@@ -1,4 +1,4 @@
-<img with="100%" src="https://github-readme-stats.vercel.app/api?username=Devildante&show_icons=true&theme=radical&locale=cn)](https://github.com/anuraghazra/github-readme-stats">
+<img  src="https://github-readme-stats.vercel.app/api?username=Devildante&show_icons=true&theme=radical&locale=cn)](https://github.com/anuraghazra/github-readme-stats">
 
 
 
