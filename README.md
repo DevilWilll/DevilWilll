@@ -1,6 +1,6 @@
 ### 你好世界！ 👋
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Devildante&locale=cn&show_icons=true&theme=github_dark">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Devildante&locale=cn&show_icons=true&theme=github_dark">
 <p>
 
 
