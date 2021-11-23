@@ -1,6 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Devildante=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devildante)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there 👋
+
+### 你好世界！ 👋
 
 <!--
 **Devildanto/Devildanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
