@@ -7,7 +7,16 @@
 * 骨灰级动漫爱好者
 * 干啥啥不行，摸鱼第一名🐟
 
+
+
+
 经常整的活
+![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/-Html5-0078D6?style=flat-square&logo=Html5)
+![](https://img.shields.io/badge/-CSS3-0078D6?style=flat-square&logo=CSS3)
+![](https://img.shields.io/badge/-JavaScript-0078D6?style=flat-square&logo=JavaScript)
+![](https://img.shields.io/badge/-C-0078D6?style=flat-square&logo=C)
+
 
 
 ![这是访问量计数，如果看不到请刷新](https://visitor-badge.glitch.me/badge?page_id=DevilWilll.DevilWilll.readme)
