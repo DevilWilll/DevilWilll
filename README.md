@@ -5,14 +5,16 @@
 * 一只emo的OW玩家（神仙玩家太多）
 * 骨灰级动漫爱好者
 * 干啥啥不行，摸鱼第一名🐟
+
 ***
+
 经常整的活<br>
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/-Html5-0078D6?style=flat-square&logo=Html5)
 ![](https://img.shields.io/badge/-CSS3-0078D6?style=flat-square&logo=CSS3)
 ![](https://img.shields.io/badge/-JavaScript-0078D6?style=flat-square&logo=JavaScript)
 ![](https://img.shields.io/badge/-jquery-0078D6?style=flat-square&logo=jquery)
-![](https://img.shields.io/badge/-C-0078D6?style=flat-square&logo=C)<br>
+![](https://img.shields.io/badge/-C-0078D6?style=flat-square&logo=C)
 ***
 目前专注于学习
 ![](https://img.shields.io/badge/-JAVA-0078D6?style=flat-square&logo=JAVA)
