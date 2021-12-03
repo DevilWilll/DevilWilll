@@ -11,7 +11,7 @@
 
 
 经常整的活<br>
-目前专注于学习JAVA<br>
+目前专注于学习
 ![](https://img.shields.io/badge/-JAVA-0078D6?style=flat-square&logo=JAVA)
 ***
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
